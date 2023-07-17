@@ -56,7 +56,7 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-helmet": "^6.1.0",
-    "react-intl": "^5.20.9",
+    "react-intl": "^6.0.0",
     "react-pdf": "^5.5.0",
     "react-redux": "^7.2.4",
     "react-router": "5.3.4",
